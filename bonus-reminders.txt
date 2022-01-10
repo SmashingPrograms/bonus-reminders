@@ -1,0 +1,32 @@
+===BONUSES OF ASSIGNMENTS===
+* 1 bonus question in https://github.com/SmashingPrograms/js-function-practice/blob/main/scripts/refactor.js
+* Bonus modes of https://github.com/SmashingPrograms/js-responsive-calculator
+* 2 bonus questions in https://github.com/SmashingPrograms/js-array-practice/blob/main/exercises.js
+* MAYBE improve js-color-clock for the font and animation as displayed on the GIF or very close
+
+===WORK===
+
+https://javascript30.com/
+
+12:04
+Array day 1, and day 2
+12:05
+#4, and #7 out of 31 ESPECIALLY
+
+Really do it all eventually, but ESPECIALLY the above
+
+===VIDEO===
+Please make sure you watch this video if you haven't already.
+https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en
+
+Nothing to do with coding directly though.
+
+===VIDEO===
+https://www.youtube.com/watch?v=upheWDsEAzM&list=PL055Epbe6d5ZMPV1biOmaI7oCc7nEMxh4
+
+Head First JavaScript Programming Teasers - Watch all vids
+
+===VIDEO===
+https://teamtreehouse.com/library/javascript-basics
+
+234-minute JavaScript course (free)
