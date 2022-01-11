@@ -1,7 +1,6 @@
 Things to do if I ever have extra time:
 
 ===BONUSES OF ASSIGNMENTS===
-* 1 bonus question in https://github.com/SmashingPrograms/js-function-practice/blob/main/scripts/refactor.js
 * Bonus modes of https://github.com/SmashingPrograms/js-responsive-calculator
 * 2 bonus questions in https://github.com/SmashingPrograms/js-array-practice/blob/main/exercises.js
 * MAYBE improve js-color-clock for the font and animation as displayed on the GIF or very close
